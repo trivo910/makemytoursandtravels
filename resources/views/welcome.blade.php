@@ -59,9 +59,10 @@
         <img class="home-hero__image" src="{{ asset('images/mumbai-bus-travel-hero.jpg') }}" alt="" width="1600" height="842" fetchpriority="high">
         <div class="home-hero__shade" aria-hidden="true"></div>
         <div class="container home-hero__content">
-            <p class="home-eyebrow">Make My Tours &amp; Travels · Since 2008</p>
-            <h1 id="home-title">Buses &amp; Tempo Travellers<span>on Rent in Mumbai</span></h1>
-            <p class="home-hero__intro">Enquire about bus and Tempo Traveller hire for your journey from Mumbai. Share your travel date, route and group details to ask about current availability.</p>
+            <!-- <p class="home-eyebrow">Make My Tours &amp; Travels · Since 2008</p> -->
+            <h1 id="home-title">Make My Tours &amp; Travels
+Your Trusted Travel Partner Since 2008</span></h1>
+            <p class="home-hero__intro">Welcome to Mumbai Explorations, where we strive to provide our guests with a richer, more nuanced understanding of the vibrant city of Mumbai through our thoughtfully curated day tours.</p>
             <div class="home-hero__actions">
                 <x-button href="#booking-form" class="button--hero">Get Started</x-button>
                 <a class="hero-video-link" href="https://www.youtube.com/watch?v=M-pv0QDkhHc" target="_blank" rel="noopener noreferrer">
